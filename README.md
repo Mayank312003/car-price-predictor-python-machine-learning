@@ -1,11 +1,11 @@
 # 🚗 Car Price Predictor
-A Machine Learning web application built using Flask that predicts the selling price of a used car based on company, model, year, fuel type, and kilometers driven.
-This project demonstrates an end-to-end ML pipeline — from data preprocessing and model training to deployment using Flask.
+A Machine Learning web application built using **Flask** that predicts the selling price of a used car based on **company, model, year, fuel type, and kilometers driven**.
+This project demonstrates an end-to-end **ML pipeline** — from data preprocessing and model training to deployment using Flask.
 
 <img width="1912" height="1028" alt="Car_Price_Predictor" src="https://github.com/user-attachments/assets/b2d94c39-8b01-49e4-91cf-e00932be58d9" />
 
 ## 📌 Features
-- Predicts used car price using Linear Regression
+- Predicts used car price using **Linear Regression**
 - Interactive Bootstrap UI
 - No page reload during prediction (AJAX integration)
 - Dynamic dropdowns for car details
@@ -38,21 +38,21 @@ Open in browser:
 http://127.0.0.1:5000/
 
 ## 📊 Model Information
-- Algorithm: Linear Regression
+- Algorithm: **Linear Regression**
 - Encoding: One Hot Encoding
 - Evaluation Metric: R² Score
 - Trained on cleaned used car dataset
 
 ## 🧠 How It Works
-1. User selects:
+**1.** User selects:
 - Company
 - Model
 - Year
 - Fuel Type
 - KM Driven
-2. Data is sent to Flask backend using AJAX.
-3. The trained ML model predicts the price.
-4. The estimated price is displayed instantly on the same page.
+**2.** Data is sent to Flask backend using AJAX.
+**3.** The trained ML model predicts the price.
+**4.** The estimated price is displayed instantly on the same page.
 
 ## 🚀 Future Improvements
 - Deploy on Render / Railway / AWS
@@ -70,7 +70,7 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 **Mayank Yadav**  
-Aspiring Data Analyst | Data Scientist
+**Aspiring Data Analyst | Data Scientist**
 
 ### ⭐ If you found this useful
 Give this repo a star.
