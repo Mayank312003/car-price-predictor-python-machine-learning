@@ -44,7 +44,7 @@ http://127.0.0.1:5000/
 - Trained on cleaned used car dataset
 
 ## 🧠 How It Works
-**1.** User selects:
+1. User selects:
 - Company
 - Model
 - Year
