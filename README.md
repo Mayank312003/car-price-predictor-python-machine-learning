@@ -28,8 +28,8 @@ This project demonstrates an end-to-end ML pipeline — from data preprocessing 
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the repository
-git clone https://github.com/Mayank312003/car-price-predictor-python-machine-learning.git
-cd car-price-predictor-python-machine-learning
+- git clone https://github.com/Mayank312003/car-price-predictor-python-machine-learning.git
+- cd car-price-predictor-python-machine-learning
 ### 2️⃣ Install dependencies
 pip install flask pandas numpy scikit-learn
 ### 3️⃣ Run the application
@@ -64,12 +64,13 @@ http://127.0.0.1:5000/
 ## 📷 Demo
 ### Demo1:
 <img width="1917" height="1025" alt="demo1" src="https://github.com/user-attachments/assets/8fbbcf61-5d74-4a5b-85d6-adbdf60a9c22" />
+
 ### Demo2:
 <img width="1917" height="1032" alt="demo2" src="https://github.com/user-attachments/assets/9f16396c-5fe4-4799-a701-167d313fc2cf" />
 
 ## 👨‍💻 Author
--Mayank Yadav
--Aspiring Data Analyst / Data Scientist
+Mayank Yadav.
+Aspiring Data Analyst / Data Scientist.
 
 ### ⭐ If you found this useful
 Give this repo a star.
