@@ -69,8 +69,8 @@ http://127.0.0.1:5000/
 <img width="1917" height="1032" alt="demo2" src="https://github.com/user-attachments/assets/9f16396c-5fe4-4799-a701-167d313fc2cf" />
 
 ## 👨‍💻 Author
-Mayank Yadav.
-Aspiring Data Analyst / Data Scientist.
+**Mayank Yadav**  
+Aspiring Data Analyst | Data Scientist
 
 ### ⭐ If you found this useful
 Give this repo a star.
