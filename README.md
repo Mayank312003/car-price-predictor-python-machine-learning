@@ -50,9 +50,9 @@ http://127.0.0.1:5000/
 - Year
 - Fuel Type
 - KM Driven
-**2.** Data is sent to Flask backend using AJAX.
-**3.** The trained ML model predicts the price.
-**4.** The estimated price is displayed instantly on the same page.
+2. Data is sent to Flask backend using AJAX.
+3. The trained ML model predicts the price.
+4. The estimated price is displayed instantly on the same page.
 
 ## 🚀 Future Improvements
 - Deploy on Render / Railway / AWS
