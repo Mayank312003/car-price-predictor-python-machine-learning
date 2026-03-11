@@ -18,9 +18,11 @@ This project demonstrates an end-to-end **ML pipeline** — from data preprocess
 - CSS3
 - Bootstrap 5
 - JavaScript (AJAX)
+  
 ### Backend
 - Python
 - Flask
+
 ### Machine Learning
 - Scikit-learn
 - Pandas
